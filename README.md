@@ -1,3 +1,28 @@
+By frequency
+
+2021.2.21:
+1. Two Sum (e - 2) :
+    - One pass with hash table
+146. LRU Cache (m - 2):
+    - doubly linked list with two dummy nodes + hashmap + LRU
+42. *Trapping Rain Water(h - 1):
+    - dp
+    - stack *
+91. Decode Ways (m - 2):
+    - dp with size + 1
+200. Number of Islands (m - 1):
+    - dfs / bfs
+
+
+2021.2.24:
+2. Add Two Numbers (m - 2): list, carryover
+56. Merge Intervals (m - 2): sort, overlapping intervals
+829. *Consecutive Numbers Sum (h - 1): Find Divisors / Integer Factorization Problem
+121. Best Time to Buy and Sell Stock (e - 2): dp, one pass
+68. Text Justification (h - 1): classification discussion 
+
+
+
 [16行代码模板轻松搞定前序、中序、后序非递归遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/solution/16xing-dai-ma-mo-ban-qing-song-gao-ding-qian-xu-zh/)
 
 
